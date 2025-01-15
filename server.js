@@ -67,7 +67,7 @@ async function seedDatabase() {
       description: "A stylish laptop.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-09-15T15:00:00Z"),
+      auctionEnd: new Date("2025-09-15T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/0/5000/3333.jpg?hmac=_j6ghY5fCfSD6tvtcV74zXivkJSPIfR9B8w34XeQmvU",
       biddingHistory: [{
         bidderName: "Liako",
@@ -80,7 +80,7 @@ async function seedDatabase() {
       description: "A stylish and comfortable 1900 trike.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-06T15:00:00Z"),
+      auctionEnd: new Date("2025-08-06T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/146/5000/3333.jpg?hmac=xdlFnzoavokA3U-bzo35Vk4jTBKx8C9fqH5IuCPXj2U",
       biddingHistory: [{
         bidderName: "Isabel",
@@ -93,7 +93,7 @@ async function seedDatabase() {
       description: "1970s clock.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-27T15:00:00Z"),
+      auctionEnd: new Date("2025-08-27T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/175/2896/1944.jpg?hmac=djMSfAvFgWLJ2J3cBulHUAb4yvsQk0d4m4xBJFKzZrs",
       biddingHistory: [{
         bidderName: "Liako",
@@ -106,7 +106,7 @@ async function seedDatabase() {
       description: "A classic 1970 camera.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-19T15:00:00Z"),
+      auctionEnd: new Date("2025-08-19T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/250/4928/3264.jpg?hmac=4oIwzXlpK4KU3wySTnATICCa4H6xwbSGifrxv7GafWU",
       biddingHistory: [{
         bidderName: "Isabel",
@@ -119,7 +119,7 @@ async function seedDatabase() {
       description: "A stylish gold and white clock.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-23T15:00:00Z"),
+      auctionEnd: new Date("2025-08-23T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/357/3888/2592.jpg?hmac=322FsZ93_k9v7NNFeCTlqk_gobPP_1mYJIQwk7GxjMc",
       biddingHistory: [{
         bidderName: "Liako",
@@ -132,7 +132,7 @@ async function seedDatabase() {
       description: "digital book.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-21T15:00:00Z"),
+      auctionEnd: new Date("2025-08-21T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/367/4928/3264.jpg?hmac=H-2OwMlcYm0a--Jd2qaZkXgFZFRxYyGrkrYjupP8Sro",
       biddingHistory: [{
         bidderName: "Liako",
@@ -145,7 +145,7 @@ async function seedDatabase() {
       description: "A light plug n play keyboard.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-10-15T15:00:00Z"),
+      auctionEnd: new Date("2025-10-15T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/366/4000/3000.jpg?hmac=zphhHOH9ofToN2jNHd8z-nc98NrBd8y2okWXEXetLDg",
       biddingHistory: [{
         bidderName: "Liako",
@@ -158,7 +158,7 @@ async function seedDatabase() {
       description: "Fujifilm Camera 1930s.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-28T15:00:00Z"),
+      auctionEnd: new Date("2025-08-28T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/435/1200/800.jpg?hmac=NRHmYJ-8T18f_jUu_zGUaS4pmJJW2baw-isXTEPVt7U",
       biddingHistory: [{
         bidderName: "Isabel",
@@ -172,7 +172,7 @@ async function seedDatabase() {
       description: "A stylish and comfortable shoe.",
       startingBid: 200.00,
       currentBid: 250.00,
-      auctionEnd: new Date("2024-08-17T15:00:00Z"),
+      auctionEnd: new Date("2025-08-17T15:00:00Z"),
       imageUrl: "https://fastly.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4",
       biddingHistory: [{
         bidderName: "Liako",
